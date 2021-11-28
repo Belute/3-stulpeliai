@@ -3,7 +3,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Serlokas
+# 3-stulpeliai
 
 _32 group website project_
 
@@ -19,9 +19,7 @@ Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648
 -   CSS
 -   Image
 
-## Authors
 
-Rimantas: [Github](https://github.com/belauzas)
 
 ## Code sample
 
