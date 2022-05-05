@@ -1,45 +1,33 @@
-![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
-![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
-![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
-![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# 3-stulpeliai
+# Columns
 
-_32 group website project_
 
-This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/32-grupe-serlokas/
+This project is for **educational** porpuses only. 
 
-Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png)
+Site published at: https://belute.github.io/Columns_html/
+
+
 
 ## Project features
 
 -   Github pages
--   CSS
--   Image
+-   HTML 
+
+
+## Authors
+
+Justinas: [Github](https://github.com/belute)
 
 
 
 ## Code sample
 
-```html
-<head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Serlokas</title>
-</head>
 ```
+     <div style="background-color: green; width: 26.9%; display: inline-block; float: left; margin-top: 2%; margin-bottom: 2%;">
 
-```css
-.class {
-    background-color: red;
-}
-```
-
-```js
-function sum(a, b) {
-    return a + b;
-}
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro aperiam asperiores fugit aliquid voluptatem
+           
+            
+         </div>
 ```
